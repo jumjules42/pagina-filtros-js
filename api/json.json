@@ -1,0 +1,116 @@
+{
+    "data":[
+        {
+            "producto":"Heladera",
+            "marca":"Kohinoor",
+            "precio":25000,
+            "stock":true,
+            "enCarrito":true
+        },
+        {
+            "producto":"Heladera",
+            "marca":"Whirlpool",
+            "precio":32500,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Cocina",
+            "marca":"Industrial",
+            "precio":27999,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Microondas",
+            "marca":"TOP",
+            "precio":10500,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Reloj",
+            "marca":"Poroto",
+            "precio":2500,
+            "stock":false,
+            "enCarrito":false
+        },
+        {
+            "producto":"Televisor 65 p",
+            "marca":"Samsung",
+            "precio":65000,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Reloj",
+            "marca":"Poroto",
+            "precio":2500,
+            "stock":false,
+            "enCarrito":false
+        },
+        {
+            "producto":"Televisor 65 p",
+            "marca":"Samsung",
+            "precio":65000,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Reloj 20cm",
+            "marca":"Poroto",
+            "precio":3000,
+            "stock":false,
+            "enCarrito":false
+        },
+        {
+            "producto":"Televisor 50 p",
+            "marca":"Samsung",
+            "precio":50000,
+            "stock":false,
+            "enCarrito":false
+        },
+        {
+            "producto":"Monitor Gamer 29 p",
+            "marca":"LG",
+            "precio":32000,
+            "stock":false,
+            "enCarrito":false
+        },
+        {
+            "producto":"Monitor 19 p",
+            "marca":"Truchon",
+            "precio":12000,
+            "stock":true,
+            "enCarrito":true
+        },
+        {
+            "producto":"MiniComponente",
+            "marca":"microlab",
+            "precio":7899,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Televisor 85 p",
+            "marca":"LG",
+            "precio":125000,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Caloventor",
+            "marca":"Naranja",
+            "precio":4500,
+            "stock":true,
+            "enCarrito":false
+        },
+        {
+            "producto":"Termo 80 litros",
+            "marca":"Calentito",
+            "precio":21000,
+            "stock":true,
+            "enCarrito":false
+        }
+    ]
+}

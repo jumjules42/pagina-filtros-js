@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1><span>💲💲💲</span>TheBazar<span>💲💲💲</span></h1>
+    <div id="contenedorFiltros">
+      <h3>Filtros</h3>
+      <div id="contenedorFiltroProducto">
+        <select name="productos" id="filtroPorProducto">
+          <option disabled selected value="0">Lista de Productos</option>
+          <option value="1">Heladeras</option>
+          <option value="2">Cocinas</option>
+          <option value="3">Microondas</option>
+          <option value="4">Relojes</option>
+          <option value="5">Televisores</option>
+          <option value="6">Monitores</option>
+          <option value="7">MiniComponentes</option>
+          <option value="8">Caloventores</option>
+          <option value="9">Termos</option>
+        </select>
+      </div>
+      <div id="contenedorFiltroPrecio">
+        <label for="precio">Precio <=</label>
+        <input type="number" name="precio" id="filtroDePrecio" />
+      </div>
+      <div id="contenedorFiltroStock">
+        <button id="filtroStock">En Stock</button>
+      </div>
+      <div id="contenedorFiltroEnCarrito">
+        <button id="filtroEnCarrito">En Carrito</button>
+      </div>
+      <div class="contenedorLimpiarFiltros">
+        <button id="limpiarFiltros">Limpiar Filtros</button>
+      </div>
+    </div>
+    <h4>Nuestros Productos:</h4>
+    <div id="listaDeProductos"></div>
+  </body>
+  <script src="index.js"></script>
+</html>
