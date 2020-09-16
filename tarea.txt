@@ -1,9 +1,0 @@
-La tareita
-
-Consuman una api (igual que se hizo en la clase 04).
-
-La api deberia proveerles un array con muchos productos.
-
-Muestren sin necesidad de mostrarlo lindo, los productos.
-
-Crear un boton de filtro a gusto por precio, marca, etc.
